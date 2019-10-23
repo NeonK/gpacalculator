@@ -1,0 +1,5 @@
+Now asks for the quarter grades and sorted the functions into their owns voids.
+
+Bug #1 Discoverd: Asks user for 4 grades for 1 quarter instead of the other way around.
+Bug #2 Discovered: Quarters keep going up instead of stopping at 4.
+Bug #3 Discovered: Quarter count does not go up after the second class.

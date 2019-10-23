@@ -1,0 +1,2 @@
+Frist beta release of the gpa calculator.
+Simply asks the user for four of his/her classes and then the program terminates.

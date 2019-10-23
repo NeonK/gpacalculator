@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - Main",
+         "request": "launch",
+         "mainClass": "gpacalculator.Main",
+         "projectName": "gpacalculator_17bc2091"
+      }
+   ]
+}
