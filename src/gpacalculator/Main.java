@@ -20,6 +20,7 @@ public class Main {
     public static void main(String[] args) {
         startUp();
         table.makeTable(classes[0], classes[1], classes[2], classes[3], class1Grades, class2Grades, class3Grades, class4Grades);
+        table.printTable();
     }
     /**
      * Goes through a simple startup dialogue.
